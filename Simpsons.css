@@ -3,7 +3,7 @@ body {
     margin-top: 2vh;
     margin-right: 20vw;
     margin-bottom: 2vh;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .chars {
@@ -20,4 +20,8 @@ h1 {
 
 h2 {
     color: cornflowerblue;
+}
+
+li {
+    color: indigo;
 }
